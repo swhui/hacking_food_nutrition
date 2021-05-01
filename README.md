@@ -1,4 +1,4 @@
-# Hacking Food Nutrition
+# Hacking Food Nutrition (Project Rachel Griffith)
 
 
 This project uses the previous work on demand for food and evaluated how different types of policies can be effective and improving nutritional outcomes for the Uganda population. We analyze fortification of food and food subsidy policies and compare between subsidizing for foods that are elastic versus inelastic.
